@@ -82,3 +82,8 @@ simpler memory management.
 
 To expand on this project, I would re-attempt with a variety of inputs (not just a list of ASCII character strings) as
 well as other data structures.
+
+
+#### Running the program
+_____________
+Clone the repo and cd into it. Use the command python main.py to run the code. The time it takes to run the various operations for both data structures should be printed in the terminal. Make sure you have Python installed on your local machine. 
